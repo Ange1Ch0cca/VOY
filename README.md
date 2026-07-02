@@ -30,16 +30,16 @@ Unauthorized access, disclosure, reproduction, distribution, or commercial use o
 
 The system includes:
 
-* 🚖 Passenger Services
-* 🚗 Driver Services
-* 📍 Real-Time Trip Tracking
-* 🗺️ Navigation & Mapping Integration
-* 💳 Digital Payment Processing
-* 🔐 Authentication & Identity Management
-* 📊 Fleet & Operations Management
-* 📱 Web Application Interface
-* ☁️ Cloud-Based Infrastructure
-* 🚀 Scalable Mobility Architecture
+- 🚖 Passenger Services
+- 🚗 Driver Services
+- 📍 Real-Time Trip Tracking
+- 🗺️ Navigation & Mapping Integration
+- 💳 Digital Payment Processing
+- 🔐 Authentication & Identity Management
+- 📊 Fleet & Operations Management
+- 📱 Web Application Interface
+- ☁️ Cloud-Based Infrastructure
+- 🚀 Scalable Mobility Architecture
 
 ---
 
@@ -55,8 +55,8 @@ See the [`LICENSE`](./LICENSE) file for full legal terms, restrictions, and usag
 
 For licensing requests, business inquiries, partnerships, or technical support:
 
-* 📧 Email: contacto@voy.com
-* 🌐 Website: https://voy.com
+- 📧 Email: contacto@voy.unit.pe
+- 🌐 Website: https://voy.unit.pe
 
 ---
 
