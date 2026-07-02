@@ -1,0 +1,36 @@
+# ============================================
+# VOY PLATFORM
+# Apache Configuration (.htaccess)
+# Copyright © 2026 UNIT. All Rights Reserved.
+# ============================================
+
+# ============================================
+# GENERAL CONFIGURATION
+# ============================================
+
+# Disable directory listing
+Options -Indexes
+
+# Enable URL rewriting
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
+
+# ============================================
+# CUSTOM ERROR PAGES
+# ============================================
+
+# Custom 404 page
+ErrorDocument 404 /error404.php
+
+# ============================================
+# PROTECT SENSITIVE FILES
+# ============================================
+
+<FilesMatch "^(\.env|composer\.(json|lock)|package(-lock)?\.json|phpunit\.xml|\.git)">
+    Require all denied
+</FilesMatch>
+
+# ============================================
+# END OF CONFIGURATION
+# ============================================
